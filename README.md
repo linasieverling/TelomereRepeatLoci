@@ -14,20 +14,20 @@ This [Snakemake](https://snakemake.readthedocs.io/en/stable/) workflow detects t
 If you are using the workflow, please cite:
 
 
-> **TelomereHunter – in silico estimation of telomere content and composition from cancer genomes**
-> Lars Feuerbach, Lina Sieverling, Katharina I. Deeg, Philip Ginsbach, Barbara Hutter, Ivo Buchhalter, Paul A. Northcott, Sadaf S. Mughal, Priya Chudasama, Hanno Glimm, Claudia Scholl, Peter Lichter, Stefan Fröhling, Stefan M. Pfister, David T. W. Jones, Karsten Rippe & Benedikt Brors
-> *BMC Bioinformaticsvolume 20, Article number: 272 (2019)*
+> **TelomereHunter – in silico estimation of telomere content and composition from cancer genomes** <br>
+Lars Feuerbach, Lina Sieverling, Katharina I. Deeg, Philip Ginsbach, Barbara Hutter, Ivo Buchhalter, Paul A. Northcott, Sadaf S. Mughal, Priya Chudasama, Hanno Glimm, Claudia Scholl, Peter Lichter, Stefan Fröhling, Stefan M. Pfister, David T. W. Jones, Karsten Rippe & Benedikt Brors <br>
+*BMC Bioinformaticsvolume 20, Article number: 272 (2019)*
 
 
-> **Alternative lengthening of telomeres in childhood neuroblastoma from genome to proteome**
-> Sabine A. Hartlieb, Lina Sieverling, Michal Nadler-Holly, Matthias Ziehm, Umut H. Toprak, Carl Herrmann, Naveed Ishaque, Konstantin Okonechnikov, Moritz Gartlgruber, Young-Gyu Park, Elisa Maria Wecht, Kai-Oliver Henrich, Larissa Savelyeva, Carolina Rosswog, Matthias Fischer, Barbara Hero, David T.W. Jones, Elke Pfaff, Olaf Witt, Stefan M. Pfister, Katharina Kiesel, Karsten Rippe, Sabine Taschner-Mandl, Peter Ambros , Benedikt Brors , Matthias Selbach, Lars Feuerbach, Frank Westermann
-> *under revision*
+> **Alternative lengthening of telomeres in childhood neuroblastoma from genome to proteome** <br>
+Sabine A. Hartlieb, Lina Sieverling, Michal Nadler-Holly, Matthias Ziehm, Umut H. Toprak, Carl Herrmann, Naveed Ishaque, Konstantin Okonechnikov, Moritz Gartlgruber, Young-Gyu Park, Elisa Maria Wecht, Kai-Oliver Henrich, Larissa Savelyeva, Carolina Rosswog, Matthias Fischer, Barbara Hero, David T.W. Jones, Elke Pfaff, Olaf Witt, Stefan M. Pfister, Katharina Kiesel, Karsten Rippe, Sabine Taschner-Mandl, Peter Ambros , Benedikt Brors , Matthias Selbach, Lars Feuerbach, Frank Westermann <br>
+*under revision*
 
 The workflow was also used in the following publication (where telomere repeat loci were termed "telomere insertions"):
 
-> **Genomic footprints of activated telomere maintenance mechanisms in cancer**
-> Lina Sieverling, Chen Hong, Sandra D. Koser, Philip Ginsbach, Kortine Kleinheinz, Barbara Hutter, Delia M. Braun, Isidro Cortés-Ciriano, Ruibin Xi, Rolf Kabbe, Peter J. Park, Roland Eils, Matthias Schlesner, PCAWG-Structural Variation Working Group, Benedikt Brors, Karsten Rippe, David T. W. Jones, Lars Feuerbach & PCAWG Consortium
-> *Nature Communications volume 11, Article number: 733 (2020)*
+> **Genomic footprints of activated telomere maintenance mechanisms in cancer** <br>
+Lina Sieverling, Chen Hong, Sandra D. Koser, Philip Ginsbach, Kortine Kleinheinz, Barbara Hutter, Delia M. Braun, Isidro Cortés-Ciriano, Ruibin Xi, Rolf Kabbe, Peter J. Park, Roland Eils, Matthias Schlesner, PCAWG-Structural Variation Working Group, Benedikt Brors, Karsten Rippe, David T. W. Jones, Lars Feuerbach & PCAWG Consortium <br>
+*Nature Communications volume 11, Article number: 733 (2020)*
 
 
 
