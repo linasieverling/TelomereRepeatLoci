@@ -1,0 +1,64 @@
+#------------------------------------------------
+# input directories
+#------------------------------------------------
+results_per_pid_dir: <EXISTING_PATH_TO_BAMFILES>/results_per_pid    #needs to contain a directory for each sample with the BAM files in the following format: results_per_pid/{PID}/alignment/{tumor/control}_PID{bam_suffix}
+telomerehunter_dir: <OUTPUT_PATH_FOR_TELOMEREHUNTER_RESULTS>/TelomereHunterResults
+pid_dir: <EXISTING_PATH_TO_BAMFILES>/results_per_pid              #directory with all the sample names
+
+bam_suffix: _merged.mdup.bam   # BAM files need to have the format {sample}_{pid}{bam_suffix}
+
+#------------------------------------------------
+# output directory
+#------------------------------------------------
+telomereinsertion_dir: <OUTPUT_PATH_FOR_TELOMEREREPEATLOCI_RESULTS>/TelomereRepeatLoci
+
+
+#------------------------------------------------
+# define pids
+#------------------------------------------------
+# run for the following pids(=samples):
+#         pids: PID1 PID2 PID3
+# run for all pids in telomerehunter_dir:
+#         pids: all
+
+pids: all 
+
+
+#------------------------------------------------
+# define names of samples (don't change this!)
+#------------------------------------------------
+samples:
+  - tumor
+  - control
+
+
+#------------------------------------------------
+# provide blacklist of 1kb regions not considered for telomere insertions
+#------------------------------------------------
+blacklist: no_file
+
+
+#------------------------------------------------
+# set thresholds for candidate regions
+#------------------------------------------------
+
+tumor_discordant_read_lower_limit: 3
+control_discordant_read_upper_limit: 0
+
+consider_blacklist: False   #possible values: True/False
+
+#------------------------------------------------
+# technical parameters
+#------------------------------------------------
+
+# sleep for 1-X seconds (random) before activating miniconda environment
+# (this is important to prevent error due to activation of miniconda environment at the same time)
+# rule of thumb: number_jobs * 6, where number_jobs is the number specified by --jobs
+sleep_sec_limit: 300
+
+
+#------------------------------------------------
+# source directories
+#------------------------------------------------
+src_dir: <SRC_DIR_FOR_SNAKEMAKE_WORKFLOW>/src
+R_function_file: <PATH_TO_FUNCTION_FILE>/functions.R
