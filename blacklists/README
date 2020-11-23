@@ -2,11 +2,11 @@
 
 PCAWG_tel_ins_blacklist.tsv:
 
-all windows with discordant reads in the control samples, with number of control samples and mean discordant reads in the window (obtained from telomere insertion cohort analysis pipeline). Merged from individual cohorts.
+all windows with discordant reads in the control samples, with number of control samples and mean discordant reads in the window. Merged from individual cohorts.
 
 NB_tel_ins_blacklist.tsv:
 
-all windows with discordant reads in the control samples, with number of control samples and mean discordant reads in the window (obtained from telomere insertion cohort analysis pipeline).
+all windows with discordant reads in the control samples, with number of control samples and mean discordant reads in the window.
 
 
 Typically only windows with a Freq of at least 15 are used for blacklisting the telomere repeat loci
