@@ -20,7 +20,7 @@ Lars Feuerbach, Lina Sieverling, Katharina I. Deeg, Philip Ginsbach, Barbara Hut
 
 
 > **Alternative lengthening of telomeres in childhood neuroblastoma from genome to proteome** <br>
-Sabine A. Hartlieb, Lina Sieverling, Michal Nadler-Holly, Matthias Ziehm, Umut H. Toprak, Carl Herrmann, Naveed Ishaque, Konstantin Okonechnikov, Moritz Gartlgruber, Young-Gyu Park, Elisa Maria Wecht, Kai-Oliver Henrich, Larissa Savelyeva, Carolina Rosswog, Matthias Fischer, Barbara Hero, David T.W. Jones, Elke Pfaff, Olaf Witt, Stefan M. Pfister, Katharina Kiesel, Karsten Rippe, Sabine Taschner-Mandl, Peter Ambros, Benedikt Brors, Matthias Selbach, Lars Feuerbach, Frank Westermann <br>
+Sabine A. Hartlieb, Lina Sieverling, Michal Nadler-Holly, Matthias Ziehm, Umut H. Toprak, Carl Herrmann, Naveed Ishaque, Konstantin Okonechnikov, Moritz Gartlgruber, Young-Gyu Park, Elisa Maria Wecht, Kai-Oliver Henrich, Larissa Savelyeva, Carolina Rosswog, Matthias Fischer, Barbara Hero, David T.W. Jones, Elke Pfaff, Olaf Witt, Stefan M. Pfister, Jan Koster, Richard Volckmann, Katharina Kiesel, Karsten Rippe, Sabine Taschner-Mandl, Peter Ambros, Benedikt Brors, Matthias Selbach, Lars Feuerbach, Frank Westermann <br>
 *under revision*
 
 The workflow was also used in the following publication (where telomere repeat loci were termed "telomere insertions"):
